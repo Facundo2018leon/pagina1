@@ -1,4 +1,4 @@
-curricuilun_jose_leon
+
 <!DOCTYPE html >
 <html lang="en">
 <head> 
@@ -11,6 +11,7 @@ curricuilun_jose_leon
         <main>
             <article>
                 <header>
+                   <h1>
                     <img src="C:\Users\PC\Pictures\20221.jpg" alt="descripcion de la imagen"width="300" heigth="300"/>
                     </h1>
                     <h1>Leon Benavides Jose Luis</h1>
@@ -62,7 +63,6 @@ curricuilun_jose_leon
             </article>
             <article>
                 <header>
-               
                         <hr>
                         <h2><mark>REFERENCIAS PERSONALES</mark> :</h2>
                         <hr>
