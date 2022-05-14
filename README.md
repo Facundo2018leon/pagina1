@@ -1,7 +1,6 @@
-
 <!DOCTYPE html >
 <html lang="en">
-<head> 
+<head>
 </head>
 <body>
     <header>
@@ -11,8 +10,7 @@
         <main>
             <article>
                 <header>
-                   <h1>
-                    <img src="C:\Users\PC\Pictures\20221.jpg" alt="descripcion de la imagen"width="300" heigth="300"/>
+                    <img src="fotos/20221.jpg" alt="descripcion de la imagen"width="300" heigth="300"/>
                     </h1>
                     <h1>Leon Benavides Jose Luis</h1>
                     <hr/>
@@ -71,7 +69,7 @@
                         <li>ING. JOSE ZURITA      -         <strong>TELF. 0998516473</strong>  </li>
                         <br>
                         <li>ING.  TATIANA NAGUA   -          <strong>TELF. 0990733338</strong>  </li>
-                    </ul>
+                    </ul> 
             </article>
         </main>
 </body>
