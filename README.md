@@ -1,8 +1,7 @@
 curricuilun_jose_leon
 <!DOCTYPE html >
 <html lang="en">
-<head>
-   
+<head> 
 </head>
 <body>
     <header>
@@ -28,7 +27,6 @@ curricuilun_jose_leon
                 <p><strong>DIRECCION DOMICILIARIA: </strong>CDLA.Muñoz Rubio frente al ecu-911  BABAHOYO</p>
                 <P><strong>TELEFONO: </strong>0997747293</P>
                 <P><strong>CORREO ELECTRONICO: </strong>joluambar@gmail.com</P>
-
             </article>
             <article>
                 <header>
@@ -38,8 +36,6 @@ curricuilun_jose_leon
                     <P><strong>PRIMARIA: </strong>Escuela fiscal mixta "4" DE MAYO</P>
                     <p><strong>SECUNDARIA: </strong>Colegio tecnico "CLEMENTE BAQUERIZO"</p>
                     <P><strong>SUPERIOR: </strong>Tecnologia en electricidad</P>
-
-
                 </header>
                 <article>
                     <header>
@@ -51,9 +47,7 @@ curricuilun_jose_leon
                         <li>INICIACION TECNICA Y SEGURIDAD INTEGRADA PARA LA INDUSTRIA ELECTRICA </li>
                         <br>
                         <li>SEGURIDAD INDUSTRIAL Y PREVENCION DE RIESGOS ELECTRICOS </li>
-
                     </ul>
-
                 </article>
                 <header>
                     <hr>
@@ -63,14 +57,12 @@ curricuilun_jose_leon
                 <ul type="CUADRO">
                     <li>ECUAVEGETAL DEOARTAMANTO DE MANTENIENTO ELECTRICO </li>
                     <br>
-
                     <li>CNEL. EP LOS RIOS </li>
-
                 </ul>
             </article>
             <article>
                 <header>
-                
+               
                         <hr>
                         <h2><mark>REFERENCIAS PERSONALES</mark> :</h2>
                         <hr>
@@ -79,9 +71,7 @@ curricuilun_jose_leon
                         <li>ING. JOSE ZURITA      -         <strong>TELF. 0998516473</strong>  </li>
                         <br>
                         <li>ING.  TATIANA NAGUA   -          <strong>TELF. 0990733338</strong>  </li>
-
                     </ul>
-               
             </article>
         </main>
 </body>
