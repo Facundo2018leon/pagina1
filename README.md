@@ -10,6 +10,7 @@
         <main>
             <article>
                 <header>
+                    <h1>
                     <img src="fotos/20221.jpg" alt="descripcion de la imagen"width="300" heigth="300"/>
                     </h1>
                     <h1>Leon Benavides Jose Luis</h1>
